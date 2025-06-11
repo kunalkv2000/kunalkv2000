@@ -1,4 +1,3 @@
-[image](https://github.com/user-attachments/assets/1c7ba620-678d-4d73-a2e5-d13910d8391a)
 - 👋 Hi, I’m @kunalkv2000
 - 💻 I’m currently working on Fullstack developement(MERN)
 - 👀 I’m interested in developing impossible Web Apps.
