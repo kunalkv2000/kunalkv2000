@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunalkv2000
+- 👋 Hi, I’m Kunal Vijayakumar (@kunalkv2000)
 - 💻 I’m currently working on Fullstack developement(MERN)
 - 👀 I’m interested in developing impossible Web Apps.
 - 💞️ I love to debug.
