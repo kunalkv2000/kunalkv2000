@@ -1,4 +1,4 @@
-<p><a target="_blank" href="https://drive.google.com/file/d/1usy3pkWNiI_4qK-C_aY8ZZjpXXGiBMsF/view?usp=sharing" style="display: inline-block;"><img src="https://github.com/kunalkv2000/kunalkv2000/blob/main/kunalkv/About.png" alt="c" width="42" height="42" /></a>
+<p><a target="_blank" href="https://drive.google.com/file/d/1usy3pkWNiI_4qK-C_aY8ZZjpXXGiBMsF/view?usp=sharing" style="display: inline-block;"><img src="https://github.com/kunalkv2000/kunalkv2000/blob/main/kunalkv/About.png" alt="c" width="100%" height="100%" /></a>
 - 👋 Hi, I’m Kunal Vijayakumar (@kunalkv2000)
 - 💻 I’m currently working on Fullstack developement(MERN)
 - 👀 I’m interested in developing impossible Web Apps.
